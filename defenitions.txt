@@ -1,0 +1,10 @@
+Data structure = a named location that can be used to store and organazie the data
+
+Algorith = a collection of steps to solve a problem
+
+Why learn DS & A?
+: You will write code that is both time and memory efficient
+
+: Commonly asked questions involve DS&A in coding interviews
+
+

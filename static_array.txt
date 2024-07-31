@@ -1,0 +1,2 @@
+Static array = array with fixed size.
+Length is determinated during compile time
